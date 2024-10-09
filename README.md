@@ -1,6 +1,6 @@
 ![maven pasiing](https://github.com/nszlevente/se-lab/actions/workflows/maven.yml/badge.svg)
 
-[![License: MIT](LICENSE)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://github.com/nszlevente/se-lab/blob/main/LICENSE)](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
 
